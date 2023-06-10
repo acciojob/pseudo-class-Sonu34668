@@ -5,5 +5,5 @@
 
 .container p:after {
   content: "After Element";
-  color: red;
+  color: orangered;
 }
