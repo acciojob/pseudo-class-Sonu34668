@@ -1,6 +1,6 @@
 .container p:before {
   content: "Before Element";
-  color: red;
+  color: orangered;
 }
 
 .container p:after {
